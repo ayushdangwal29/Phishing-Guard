@@ -1,4 +1,4 @@
-# New-Phishing-Guard-
+# Phishing-Guard
 
 This is a [Next.js](https://nextjs.org) project.
 
